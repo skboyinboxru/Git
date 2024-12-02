@@ -49,10 +49,10 @@
 [PKT](https://ru.files.me/u/9hw5ja4us6)
 
 
-[Config](https://printskrin.ru/i/1-1.bh0Cqb)
+[![1_1.png](https://s.iimg.su/s/02/N3f4JcITc6QdF5KFSyEsFO6N1eSe3mFx7Y7bAQc7.png)](https://iimg.su/i/DipGM)
 
 
-[Config](https://printskrin.ru/i/1-2.bh0iux)
+[![1_2.png](https://s.iimg.su/s/02/SKZSjDENpWQrtjIt0OOt5DA0fw1pXv6nTCZrlNeS.png)](https://iimg.su/i/58aI2)
 
 
 
