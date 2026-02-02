@@ -46,6 +46,8 @@
 ---
 
 
-[Playbook](https://github.com/skboyinboxru/playbook)
-[lighthouse-role](https://github.com/skboyinboxru/lighthouse-role)
-[vector-role](https://github.com/skboyinboxru/vector-role)
+1. [Playbook](https://github.com/skboyinboxru/playbook)
+
+2. [lighthouse-role](https://github.com/skboyinboxru/lighthouse-role)
+
+3. [vector-role](https://github.com/skboyinboxru/vector-role)
