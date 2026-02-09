@@ -87,7 +87,7 @@
 [![Alerts_Ruls.png](https://s4.iimage.su/s/09/gepkWQHxC4zXOMQfaKfQZgb6kbFXfvOob2vwyPzY.png)](https://iimg.su/i/epkWQH)
 
 
-
+[dashboard.json](https://github.com/skboyinboxru/Git/blob/main/Monitoring/HW2/dashboard.json)
 
 
     
