@@ -56,6 +56,8 @@
 
 ### Задание 1. Создать Pod с именем hello-world
 
+[Manifest_Hello_world](https://github.com/skboyinboxru/Git/blob/main/K8s/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B%20K8S/Manifests/pod-hello-world.yaml)
+
 [![kube_hello_world_yaml.png](https://s10.iimage.su/s/05/gjO9dpDx4qNWd0yG5zH7UsBzpYPde2UqJwhpstSpy.png)](https://iimg.su/i/jO9dpD)
 
 [![Kube_Hello_world_Browser.png](https://s10.iimage.su/s/05/gAfFfp8xTUvT3N9HNpJRBFyXBXK8DhJiDPeyFTP7O.png)](https://iimg.su/i/AfFfp8)
@@ -65,11 +67,15 @@
 
 ### Задание 2. Создать Service и подключить его к Pod
 
+[Mnifest_Netology_Web](https://github.com/skboyinboxru/Git/blob/main/K8s/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B%20K8S/Manifests/pod-netology-web.yaml)
+
 [![Nerology_POd_Manifest.png](https://s10.iimage.su/s/05/gshG5R9x5uedA99MOOgkLrBJh3TcSkvq6gW3YomFL.png)](https://iimg.su/i/shG5R9)
 
 [![Netology_curl.png](https://s10.iimage.su/s/05/gfm5jGyxVbDZdKAzucIEVH75Gzs8EI042SRiwveu6.png)](https://iimg.su/i/fm5jGy)
 
 [![Pods.png](https://s10.iimage.su/s/05/gHBO08nxKZk2yWaeyUVZnb5MGRhpKloZF6mByG9yB.png)](https://iimg.su/i/HBO08n)
+
+[Manifest_Service_Netology](https://github.com/skboyinboxru/Git/blob/main/K8s/%D0%91%D0%B0%D0%B7%D0%BE%D0%B2%D1%8B%D0%B5%20%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D1%8B%20K8S/Manifests/service-netology-svc.yaml)
 
 [![Service.png](https://s10.iimage.su/s/05/ggL8UC3xupRhSfoz6BmijbjQJpizkzilQY7JseTie.png)](https://iimg.su/i/gL8UC3)
 
