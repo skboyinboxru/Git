@@ -55,6 +55,9 @@
 
 [![Test+curl.png](https://s10.iimage.su/s/11/grenZ8dxdIrdIv3l4av23rmrCqGHtDblbgOsTRr8p.png)](https://iimg.su/i/renZ8d)
 
+[Deployment](https://github.com/skboyinboxru/Git/blob/main/K8s/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B5%20%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B2%20K8S.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/Manifests/deployment.yaml)
+
+[ServiceClusterip](https://github.com/skboyinboxru/Git/blob/main/K8s/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B5%20%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B2%20K8S.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/Manifests/service-clusterip.yaml)
 
 
 ### Задание 2. Создать Service и обеспечить доступ к приложениям снаружи кластера
@@ -62,3 +65,5 @@
 [![NodePort.png](https://s10.iimage.su/s/11/glz2nCOx2Pq10kyZHjigIbzRCG9AVzpvqQfHJ9bkU.png)](https://iimg.su/i/lz2nCO)
 
 [![Screenshot_2.png](https://s10.iimage.su/s/11/gljvCVWx4kR7tC0MgMwW46y8LhWgHA1UXZOLOG84e.png)](https://iimg.su/i/ljvCVW)
+
+[Nodeport](https://github.com/skboyinboxru/Git/blob/main/K8s/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B5%20%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B2%20K8S.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/Manifests/service-nodeport.yaml)
