@@ -203,3 +203,6 @@ spec:
 [![Screenshot_2.png](https://s10.iimage.su/s/11/gljvCVWx4kR7tC0MgMwW46y8LhWgHA1UXZOLOG84e.png)](https://iimg.su/i/ljvCVW)
 
 [Nodeport](https://github.com/skboyinboxru/Git/blob/main/K8s/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B5%20%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B2%20K8S.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/Manifests/service-nodeport.yaml)
+
+
+[Manifests](https://github.com/skboyinboxru/Git/tree/main/K8s/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B5%20%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B2%20K8S.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/Manifests/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202)
