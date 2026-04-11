@@ -72,3 +72,5 @@
 [![logs.png](https://s10.iimage.su/s/11/guxfVWRxKfH7koZPf4jYTTG6OtkWQVGdI2LfhflbE.png)](https://iimg.su/i/uxfVWR)
 
 [![curl.png](https://s10.iimage.su/s/11/gfECE2jx0b5lAr5ldkc0UFJ24eNk9soz1Eck5u838.png)](https://iimg.su/i/fECE2j)
+
+[манифесты](https://github.com/skboyinboxru/Git/tree/main/K8s/%D0%97%D0%B0%D0%BF%D1%83%D1%81%D0%BA%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B2%20K8S/Manifests)
