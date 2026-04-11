@@ -1,4 +1,3 @@
-
 # Домашнее задание к занятию «Сетевое взаимодействие в Kubernetes»
 
 ### Примерное время выполнения задания
@@ -183,7 +182,8 @@ spec:
 
 
 
-### Задание 1. Создать Deployment и обеспечить доступ к контейнерам приложения по разным портам из другого Pod внутри кластера
+
+## **Задание 1: Настройка Service (ClusterIP и NodePort)**
 
 [![Screenshot_1.png](https://s10.iimage.su/s/11/ghhwd65xEDbqYDz6OZkEISsejIGUYDKtbBfDWezQk.png)](https://iimg.su/i/hhwd65)
 
@@ -195,9 +195,6 @@ spec:
 
 [ServiceClusterip](https://github.com/skboyinboxru/Git/blob/main/K8s/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B5%20%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B2%20K8S.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/Manifests/service-clusterip.yaml)
 
-
-### Задание 2. Создать Service и обеспечить доступ к приложениям снаружи кластера
-
 [![NodePort.png](https://s10.iimage.su/s/11/glz2nCOx2Pq10kyZHjigIbzRCG9AVzpvqQfHJ9bkU.png)](https://iimg.su/i/lz2nCO)
 
 [![Screenshot_2.png](https://s10.iimage.su/s/11/gljvCVWx4kR7tC0MgMwW46y8LhWgHA1UXZOLOG84e.png)](https://iimg.su/i/ljvCVW)
@@ -205,4 +202,13 @@ spec:
 [Nodeport](https://github.com/skboyinboxru/Git/blob/main/K8s/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B5%20%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B2%20K8S.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/Manifests/service-nodeport.yaml)
 
 
-[Manifests](https://github.com/skboyinboxru/Git/tree/main/K8s/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B5%20%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B2%20K8S.%20%D0%A7%D0%B0%D1%81%D1%82%D1%8C%201/Manifests/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202)
+
+## **Задание 2: Настройка Ingress**
+
+[![Pod_Service_Ingress.png](https://s10.iimage.su/s/11/gKTxsJdx6nyfkqHVXgQbyCXukXSdXrSezYrbc5jbK.png)](https://iimg.su/i/KTxsJd)
+
+
+[![Curl_localhost_ip.png](https://s10.iimage.su/s/11/gAZROD0x1JwiofIJpTEU4IJ7JgqkDoiS7IYEAZRUz.png)](https://iimg.su/i/AZROD0)
+
+
+[Manifests](https://github.com/skboyinboxru/Git/tree/main/K8s/%D0%A1%D0%B5%D1%82%D0%B5%D0%B2%D0%BE%D0%B5%20%D0%B2%D0%B7%D0%B0%D0%B8%D0%BC%D0%BE%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%B2%20Kubernetes/Manifests/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202)
