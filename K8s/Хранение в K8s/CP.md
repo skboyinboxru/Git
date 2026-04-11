@@ -280,7 +280,7 @@ spec:
 
 [![log.png](https://s10.iimage.su/s/11/gsBPktWxmGBsj1ufhg5M0VgRZ0kUF77OsI9Mqr0Zr.png)](https://iimg.su/i/sBPktW)
 
-
+[Manifest](https://github.com/skboyinboxru/Git/tree/main/K8s/%D0%A5%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20K8s/Manifests/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B51)
 
 ## Задание 2. PV, PVC
 
@@ -296,8 +296,11 @@ spec:
 Почему файл остался на диске после удаления PV?
 hostPath монтирует физическую директорию на ноде. Удаление объекта PV удаляет только его описание из Kubernetes, но не затрагивает файлы на диске. Чтобы удалить данные, нужно вручную очистить директорию /mnt/data.
 
+[Manifest](https://github.com/skboyinboxru/Git/tree/main/K8s/%D0%A5%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20K8s/Manifests/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B52)
 
 ## Задание 3. StorageClass
 
 
 [![Screenshot_1.png](https://s10.iimage.su/s/11/gESXXk3xd4NVZqqYPiiERcdVXykjThec6v3sP3YS8.png)](https://iimg.su/i/ESXXk3)
+
+[Manifest](https://github.com/skboyinboxru/Git/tree/main/K8s/%D0%A5%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20K8s/Manifests/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B53)
