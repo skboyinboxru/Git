@@ -1,0 +1,23 @@
+{{- if .Values.configmap.enabled }}
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: {{ .Release.Name }}-web-content
+  labels:
+    app: web-app
+    release: {{ .Release.Name }}
+data:
+  index.html: |
+    <!DOCTYPE html>
+    <html>
+    <head>
+      <title>{{ .Values.configmap.title }}</title>
+    </head>
+    <body>
+      <h1>{{ .Values.configmap.heading }}</h1>
+      <p>{{ .Values.configmap.message }}</p>
+      <p>Release: {{ .Release.Name }}</p>
+      <p>Namespace: {{ .Release.Namespace }}</p>
+    </body>
+    </html>
+{{- end }}

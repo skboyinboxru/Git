@@ -1,0 +1,45 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: {{ .Release.Name }}-web-app
+  labels:
+    app: web-app
+    release: {{ .Release.Name }}
+spec:
+  replicas: {{ .Values.replicaCount }}
+  selector:
+    matchLabels:
+      app: web-app
+      release: {{ .Release.Name }}
+  template:
+    metadata:
+      labels:
+        app: web-app
+        release: {{ .Release.Name }}
+    spec:
+      containers:
+      - name: nginx
+        image: "{{ .Values.images.nginx.repository }}:{{ .Values.images.nginx.tag }}"
+        imagePullPolicy: {{ .Values.images.nginx.pullPolicy }}
+        ports:
+        - containerPort: 80
+        volumeMounts:
+        - name: web-config
+          mountPath: /usr/share/nginx/html
+        resources:
+          {{- toYaml .Values.resources | nindent 10 }}
+      - name: multitool
+        image: "{{ .Values.images.multitool.repository }}:{{ .Values.images.multitool.tag }}"
+        imagePullPolicy: {{ .Values.images.multitool.pullPolicy }}
+        env:
+        - name: HTTP_PORT
+          value: "1180"
+        ports:
+        - containerPort: 1180
+          name: http
+        resources:
+          {{- toYaml .Values.resources | nindent 10 }}
+      volumes:
+      - name: web-config
+        configMap:
+          name: {{ .Release.Name }}-web-content
