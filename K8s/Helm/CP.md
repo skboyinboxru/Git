@@ -44,7 +44,7 @@
 
 ### Задание 1. Подготовить Helm-чарт для приложения
 
-
+[web-app-chart](https://github.com/skboyinboxru/Git/tree/main/K8s/Helm/web-app-chart)
 
 [![Screenshot_1.png](https://s10.iimage.su/s/12/g7joGdGxHuPp7atWQYjHkgLEKT2ZJRFieRhsm9YFe.png)](https://iimg.su/i/7joGdG)
 
