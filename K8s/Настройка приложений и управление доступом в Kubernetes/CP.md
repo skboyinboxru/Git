@@ -214,7 +214,7 @@ rules:
 
 ## **Задание 1: Работа с ConfigMaps**
 
-[Manifests]
+[Manifests](https://github.com/skboyinboxru/Git/tree/main/K8s/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B8%20%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BE%D0%BC%20%D0%B2%20Kubernetes/Manifests/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201)
 
 
 [![Screenshot_1.png](https://s10.iimage.su/s/12/gyOqSSUxlggbCdqy7tjZ3eidpNnBFQgQ3uSqCfBFY.png)](https://iimg.su/i/yOqSSU)
@@ -224,7 +224,7 @@ rules:
 
 ## **Задание 2: Настройка HTTPS с Secrets**
 
-[manifests]
+[manifests](https://github.com/skboyinboxru/Git/tree/main/K8s/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B8%20%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BE%D0%BC%20%D0%B2%20Kubernetes/Manifests/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202)
 
 
 
@@ -239,7 +239,8 @@ rules:
 ## **Задание 3: Настройка RBAC** 
 
 
-[Manifests]
+[Manifests](https://github.com/skboyinboxru/Git/tree/main/K8s/%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%B8%20%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BE%D0%BC%20%D0%B2%20Kubernetes/Manifests/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%203)
+
 
 [![Screenshot_1.png](https://s10.iimage.su/s/12/gWxKpvexziistcqMelBiqpvXpwgMHAeLwQVGWy9z8.png)](https://iimg.su/i/WxKpve)
 
