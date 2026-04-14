@@ -50,3 +50,6 @@
 - Установлен Kubernetes с помощью Kubespray
 - CRI: containerd
 - etcd запущен на master ноде
+
+[Terraform](https://github.com/skboyinboxru/Git/tree/main/K8s/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20Kubernetes/Terraform)
+[Kubespray](https://github.com/skboyinboxru/Git/tree/main/K8s/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0%20Kubernetes/inventory)
