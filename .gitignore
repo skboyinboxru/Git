@@ -1,0 +1,26 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+*.tfvars
+*.auto.tfvars
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# CLI configuration files
+.terraformrc
+terraform.rc
+
+# User-specific files
+*.log
+*.lock.hcl
+
+# Sensitive files (your service account key)
+.authorized_key.json
+
+# OS metadata
+.DS_Store
+Thumbs.db
