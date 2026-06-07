@@ -1,0 +1,13 @@
+#!/bin/bash
+cat <<EOF > /var/www/html/index.html
+<html>
+<head><title>LAMP Group</title></head>
+<body>
+<h1>Hello from ${hostname}</h1>
+<p>Image from Object Storage:</p>
+<img src="${image_url}" alt="My image" width="500">
+</body>
+</html>
+EOF
+systemctl enable httpd
+systemctl start httpd
